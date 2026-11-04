@@ -1,0 +1,6 @@
+name: speed_heading_bridge
+from_domain: 10
+to_domain: 0
+topics:
+  r1/speed_heading:
+    type: r1_message/msg/SpeedHeading

@@ -1,0 +1,7 @@
+src/fishbot/fishbot_navigation2/PCD/scans.pcd
+src/fishbot/fishbot_navigation2/PCD/base.pcd
+src/fishbot/fishbot_navigation2/PCD/final.pcd
+src/fishbot/fishbot_navigation2/PCD/fina2.pcd
+build
+install
+log
