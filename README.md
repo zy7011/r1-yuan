@@ -359,3 +359,4 @@ ros2 topic pub --rate 10 /r1/speed_heading r1_message/msg/SpeedHeading "{linear_
 export ROS_DOMAIN_ID=0
 
 ros2 run domain_bridge domain_bridge bridge_10_to_0.yaml
+
